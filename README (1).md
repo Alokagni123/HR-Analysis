@@ -127,7 +127,7 @@ __<h2>QA Testing (Quality Assurance)</h2>__
 
 __<h1>CONCLUSION</h1>__
 
-The HR Analytics Dashboard project utilizing Tableau, Power BI and SQL aims to offer comprehensive insights into essential HR metrics and trends within an organization. By employing visualizations and data analysis techniques, the dashboard facilitates HR professionals in discerning patterns and making informed, data-driven decisions. It encompasses key visualizations presenting an overarching view of HR-related metrics, including turnover rate, headcount, and employee engagement levels. Additionally, it provides insights into recruitment metrics such as time-to-fill and cost-per-hire.
+The HR Analytics Dashboard project utilizing Power BI and SQL aims to offer comprehensive insights into essential HR metrics and trends within an organization. By employing visualizations and data analysis techniques, the dashboard facilitates HR professionals in discerning patterns and making informed, data-driven decisions. It encompasses key visualizations presenting an overarching view of HR-related metrics, including turnover rate, headcount, and employee engagement levels. Additionally, it provides insights into recruitment metrics such as time-to-fill and cost-per-hire.
 
 Moreover, the dashboard delves into employee performance metrics, including training and development, performance appraisals, and career progression, aiding HR professionals in identifying areas for enhancement and formulating strategies to bolster employee engagement and productivity.
 
